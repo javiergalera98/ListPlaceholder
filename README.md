@@ -2,9 +2,6 @@
 A library to present a customizable placeholder view when a SwiftUI List is empty.
 It provides a simple and convenient way to enhance the user experience by showing relevant information or UI elements when there is no content to display.
 
-- Present **any** view above your list's content.
-- 
-
 
 ## Installation
 Requires iOS 14+, macOS 11+, watchOS 7+ or tvOS 14+.
