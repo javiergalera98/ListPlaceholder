@@ -45,7 +45,7 @@ struct ContentView: View {
 
 Author | Contributing | Need Help?
 --- | --- | ---
-Popovers is made by [Javier](https://github.com/javiergalera98). | All contributions are welcome. Just [fork](https://github.com/javiergalera98/ListPlaceholder/fork) the repo, then make a pull request. | Open an [issue](https://github.com/javiergalera98/ListPlaceholder/issues). You can also DM me on [Twitter](https://twitter.com/javiergalera98). Or read the source code — there's lots of comments.
+ListPlaceholder is made by [Javier](https://github.com/javiergalera98). | All contributions are welcome. Just [fork](https://github.com/javiergalera98/ListPlaceholder/fork) the repo, then make a pull request. | Open an [issue](https://github.com/javiergalera98/ListPlaceholder/issues). You can also DM me on [Twitter](https://twitter.com/javiergalera98). Or read the source code — there's lots of comments.
 
 
 ## License
